@@ -1,0 +1,23 @@
+.logo {
+    display: flex;
+    align-items: center;
+    height: 40px;
+    width: 380px;
+}
+
+.logo .image {
+    height: 40px;
+    width: 40px;
+}
+
+.top-nav {
+    height: 70px !important;
+}
+
+#main {
+    padding-top: 60px !important;
+}
+
+#main>.core {
+    padding: 0px !important
+}
