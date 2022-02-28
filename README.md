@@ -1,7 +1,9 @@
 # FORK OF - better-docs
 ## For quick implementation of specific documentation standards for MadBase projects
 
-Run: `npx build-doc-config` to create jsdoc.json
+Run: `npx build-doc-config <project_name> <github_url>` to create jsdoc.json
+
+Can additioanlly include third parameter for readme file name if not "README.md"
 
 ### Original Documentation Below
 
